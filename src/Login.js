@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 
 function Login() {
     return (
+
         <div className='login template d-flex justify-content-center align-items-center vh-100 bg-primary'>
             <div className='form_container p-5 rounded bg-white'>
                 <form>
@@ -31,6 +32,7 @@ function Login() {
                 </form>
             </div>
         </div>
+        
     )
 }
 

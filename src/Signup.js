@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Signup() {
   return (
+
     <div className='login template d-flex justify-content-center align-items-center vh-100 bg-primary'>
             <div className='form_container p-5 rounded bg-white'>
                 <form>
@@ -28,6 +29,7 @@ function Signup() {
                 </form>
             </div>
         </div>
+        
   )
 }
 
